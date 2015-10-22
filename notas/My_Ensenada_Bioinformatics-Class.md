@@ -14,7 +14,7 @@ IÂ´am working in the search of Microsatellites on Transcriptome of Pacific LionÂ
 
 This is the NCBI register
 
-!(/Users/Cesar/Desktop/cesar2-btea-nb/imagenes/Myostatina_Ns_gene.png)
+(/Users/Cesar/Desktop/cesar2-btea-nb/imagenes/Myostatina_Ns_gene.png)
 
 ________
 
