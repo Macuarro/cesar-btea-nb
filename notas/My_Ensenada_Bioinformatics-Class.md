@@ -14,7 +14,7 @@ IÂ´am working in the search of Microsatellites on Transcriptome of Pacific LionÂ
 
 This is the NCBI register
 
-(../Users/Cesar/Desktop/cesar2-btea-nb/imagenes/Myostatina_Ns_gene.png)
+![Myostatina Ns gene](../imagenes/Myostatina_Ns_gene.png)
 
 ________
 
@@ -44,4 +44,4 @@ Now I have to learn how to do annotations for looking for use the micros with im
 
 One picture of N. subnodosus
 
-(../Users/Cesar/Desktop/cesar2-btea-nb/imagenes/Nodipecten.png)
+![Nod. subnodosus](../imagenes/Nodipecten.png)
