@@ -34,8 +34,8 @@ This was my code
 When I run that I found 13 MATCH!!
 
 Here is the top hit for Blast
-```
-c12765_g1_i1_1	gi |238915582| gb|FJ986365.1|	96.12	103	0	4	1	100	102	1	2e-43	165```
+
+```c12765_g1_i1_1	gi |238915582| gb|FJ986365.1|	96.12	103	0	4	1	100	102	1	2e-43	165```
 
 
 Now I have to learn how to do annotations for looking for use the micros with important annotation.
