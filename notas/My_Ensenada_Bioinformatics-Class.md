@@ -8,13 +8,13 @@ This page was created by César
 
 
 
-I´am working in the search of Microsatellites on Transcriptome of Pacific Lion´s Paw Scallop. The Transcriptome has not been publish yet. I´am sharing one of the fisrt genome works in this specie.
+I´am working in the search of Microsatellites on Transcriptome of Pacific Lion´s Paw Scallop. The Transcriptome has not been publish yet. I´am sharing one of the fisrt genes in this specie.
 
 
 
 This is the NCBI register
 
-(/Users/Cesar/Desktop/cesar2-btea-nb/imagenes/Myostatina_Ns_gene.png)
+(../Users/Cesar/Desktop/cesar2-btea-nb/imagenes/Myostatina_Ns_gene.png)
 
 ________
 
@@ -44,4 +44,4 @@ Now I have to learn how to do annotations for looking for use the micros with im
 
 One picture of N. subnodosus
 
-(/Users/Cesar/Desktop/cesar2-btea-nb/imagenes/Nodipecten.png)
+(../Users/Cesar/Desktop/cesar2-btea-nb/imagenes/Nodipecten.png)
