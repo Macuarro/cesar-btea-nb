@@ -45,3 +45,6 @@ Now I have to learn how to do annotations for looking for use the micros with im
 One picture of N. subnodosus
 
 ![Nod. subnodosus](../imagenes/Nodipecten.png)
+
+___________
+
