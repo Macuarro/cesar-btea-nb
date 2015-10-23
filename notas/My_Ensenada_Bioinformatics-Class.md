@@ -29,7 +29,8 @@ This was my code
 -task blastn \
 -query ../Big-data/blast/query/MsNsnoprimers.fasta \
 -db ../Big-data/blast/db/Ns_Ms_NBCI \
--out ../Big-data/blast/out/MsNs_blastx_NCBI-fmt6.out```
+-out ../Big-data/blast/out/MsNs_blastx_NCBI-fmt6.out
+```
 
 When I run that I found 13 MATCH!!
 
