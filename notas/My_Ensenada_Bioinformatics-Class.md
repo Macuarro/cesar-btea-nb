@@ -41,7 +41,8 @@ Here is the top hit for Blast
 Now I have to learn how to do annotations for looking for use the micros with important annotation.
 
 
-One picture of N. subnodosus
+One picture of N. subnodosus:
+____
 
 ![Nod. subnodosus](../imagenes/Nodipecten.png)
 
